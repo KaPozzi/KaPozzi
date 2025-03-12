@@ -1,5 +1,16 @@
-## Hi there 👋
+## Kauã Pozzi
 
+DevOps Analyst | 2x AWS Certified | I work with Linux, Cloud, Python, Terraform, Docker and GitHub Actions. 
+
+## Introduction
+
+### Things i've built
+
+### Homelab
+
+Always a work in progess... 
+
+https://github.com/KaPozzi/homelab
 <!--
 **KaPozzi/KaPozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
