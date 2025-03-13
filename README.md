@@ -2,15 +2,27 @@
 
 DevOps Analyst | 2x AWS Certified | I work with Linux, Cloud, Python, Terraform, Docker and GitHub Actions. 
 
-## Introduction
-
-### Things i've built
+## Things i've built
 
 ### Homelab
 
 Always a work in progess... 
 
 https://github.com/KaPozzi/homelab
+
+### AWS
+
+Since the begining of my journey i focused on AWS Cloud and i'm actively doing projects to improve my expertise. You can check some labs i made in my portfolio page. 
+
+https://kapozzi.github.io
+
+### Python
+
+At this moment, i'm developing a project that has been teaching me so much. 
+Doing in co-op with a friend, the app is a Goal Tracker made with Flask and using SQLAlchemy (ORM) to deal with a MySQL Database. 
+
+https://github.com/KaPozzi/goalt-app
+
 <!--
 **KaPozzi/KaPozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
